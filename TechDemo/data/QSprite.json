@@ -1,0 +1,212 @@
+{
+  "Revenant": {
+    "name": "Revenant",
+    "cols": 3,
+    "rows": 3,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "C:\\Users\\Ryden\\Documents\\School\\Fall 2021\\CMPUT 250\\Revenant Beats\\Revenant Beats\\img\\characters\\%Revenant-Flay.png",
+    "poses": {
+      "default": {
+        "name": "default",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle1": {
+        "name": "idle1",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          5
+        ]
+      },
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "idle3": {
+        "name": "idle3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          4
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3
+        ]
+      },
+      "idle7": {
+        "name": "idle7",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          7
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle9": {
+        "name": "idle9",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          6
+        ]
+      },
+      "move1": {
+        "name": "move1",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          5
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "move3": {
+        "name": "move3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          4
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3
+        ]
+      },
+      "move7": {
+        "name": "move7",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          7
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "move9": {
+        "name": "move9",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          6
+        ]
+      },
+      "dash1": {
+        "name": "dash1",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          5
+        ]
+      },
+      "dash2": {
+        "name": "dash2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "dash3": {
+        "name": "dash3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          4
+        ]
+      },
+      "dash4": {
+        "name": "dash4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2
+        ]
+      },
+      "dash6": {
+        "name": "dash6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3
+        ]
+      },
+      "dash7": {
+        "name": "dash7",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          7
+        ]
+      },
+      "dash8": {
+        "name": "dash8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "dash9": {
+        "name": "dash9",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          6
+        ]
+      }
+    }
+  }
+}
