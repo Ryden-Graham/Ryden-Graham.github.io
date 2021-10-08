@@ -23,5 +23,5 @@ Tracy Tran       Artist
 
 
 
-[TechDemo](/TechDemo/index.html)
-[TechDemo download](TechDemo.zip)
+Play online: [TechDemo](/TechDemo/index.html)
+Download: [TechDemo download](TechDemo.zip)
