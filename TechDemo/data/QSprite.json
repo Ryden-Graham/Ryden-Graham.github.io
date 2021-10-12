@@ -5,7 +5,7 @@
     "rows": 3,
     "anchorX": 0.5,
     "anchorY": 1,
-    "sampleImg": "..\\img\\characters\\%Revenant-Flay.png",
+    "sampleImg": "C:\\Users\\Ryden\\Documents\\School\\Fall 2021\\CMPUT 250\\Revenant Beats\\Revenant Beats\\img\\characters\\QRevenant-Flay.png",
     "poses": {
       "default": {
         "name": "default",
