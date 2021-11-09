@@ -1,0 +1,422 @@
+{
+  "Flay": {
+    "name": "Flay",
+    "cols": 5,
+    "rows": 5,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\RPGMaker\\Revenant Beats\\cmput-250-project\\Revenant Beats\\img\\characters\\QFlay-RB.png",
+    "poses": {
+      "default": {
+        "name": "default",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3
+        ]
+      },
+      "idle1": {
+        "name": "idle1",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          10
+        ]
+      },
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          10
+        ]
+      },
+      "idle3": {
+        "name": "idle3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          10
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          5
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "idle7": {
+        "name": "idle7",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          15
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          15
+        ]
+      },
+      "idle9": {
+        "name": "idle9",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          15
+        ]
+      },
+      "move1": {
+        "name": "move1",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3,
+          8,
+          13,
+          18,
+          23
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3,
+          8,
+          13,
+          18,
+          23
+        ]
+      },
+      "move3": {
+        "name": "move3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3,
+          8,
+          13,
+          18,
+          23
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1,
+          6,
+          11,
+          16,
+          21
+        ]
+      },
+      "move7": {
+        "name": "move7",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          4,
+          9,
+          14,
+          19,
+          24
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          4,
+          9,
+          14,
+          19,
+          24
+        ]
+      },
+      "move9": {
+        "name": "move9",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          4,
+          9,
+          14,
+          19,
+          24
+        ]
+      },
+      "dash1": {
+        "name": "dash1",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          5
+        ]
+      },
+      "dash2": {
+        "name": "dash2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "dash3": {
+        "name": "dash3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          4
+        ]
+      },
+      "dash4": {
+        "name": "dash4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2
+        ]
+      },
+      "dash6": {
+        "name": "dash6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3
+        ]
+      },
+      "dash7": {
+        "name": "dash7",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          7
+        ]
+      },
+      "dash8": {
+        "name": "dash8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "dash9": {
+        "name": "dash9",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          6
+        ]
+      }
+    }
+  },
+  "Thug": {
+    "name": "Thug",
+    "cols": 4,
+    "rows": 3,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\RPGMaker\\Revenant Beats\\cmput-250-project\\Revenant Beats\\img\\characters\\QThug-RB.png",
+    "poses": {
+      "default": {
+        "name": "default",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3
+        ]
+      },
+      "idle1": {
+        "name": "idle1",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3,
+          3,
+          3
+        ]
+      },
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3,
+          3,
+          3
+        ]
+      },
+      "idle3": {
+        "name": "idle3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3,
+          3,
+          3
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1,
+          1,
+          1
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0,
+          0,
+          0
+        ]
+      },
+      "idle7": {
+        "name": "idle7",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2,
+          2,
+          2
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2,
+          2,
+          2
+        ]
+      },
+      "idle9": {
+        "name": "idle9",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2,
+          2,
+          2
+        ]
+      },
+      "move1": {
+        "name": "move1",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3,
+          3,
+          3
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3,
+          3,
+          3
+        ]
+      },
+      "move3": {
+        "name": "move3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3,
+          3,
+          3
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1,
+          1,
+          1
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0,
+          0,
+          0
+        ]
+      },
+      "move7": {
+        "name": "move7",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2,
+          2,
+          2
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2,
+          2,
+          2
+        ]
+      },
+      "move9": {
+        "name": "move9",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2,
+          2,
+          2
+        ]
+      }
+    }
+  }
+}
