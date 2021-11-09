@@ -23,5 +23,5 @@ Tracy Tran       Artist
 
 
 
-Play online: [VerticalSlice](/VerticalSlice/index.html)
+Play online: [Beta](/Beta/index.html)
 Download: [VerticalSlice download](VerticalSlice.zip)
