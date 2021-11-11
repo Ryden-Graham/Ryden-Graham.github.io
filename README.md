@@ -28,7 +28,7 @@ Download: [Beta download](Beta.zip)
 
 Link to feedback survey: https://forms.gle/AjXprSZ9Wz2RD1SH7
 
-Known bug: Continuing from a save causes a crash due to a wait error
+Known bug: continuing from a save causes a crash due to a wait error.
 This does not happen locally, so we recommend you use the windows executable linked here instead: https://drive.google.com/file/d/1TY3R0gQWjvnXhc-YsSm684ZLLJk52FJd/view
 
 # How To Play
