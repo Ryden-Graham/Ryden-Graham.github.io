@@ -31,6 +31,6 @@ Use the Necronomibox (a sentient, undead, boombox) to smash through your enemies
 - 'WASD' to move
 - 'Shift' to dash
 - 'Left click' to swing the Necronomibox and deal damage
-- 'Q', 'E', and 'Right click' are used later for unlockable attacks
+- 'Q', 'E', and 'Right click' are used later for unlockable attacks 
 Time hits to the beat to build combo and deal massive damage!
 Dash to get away from enemies!
