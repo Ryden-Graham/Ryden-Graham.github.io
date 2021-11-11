@@ -61,7 +61,6 @@ Spoilers/Tips for Later Levels
   - Try and avoid picking up hearts if you are at full hp to save them for later
   
   The Dragon has 3 attacks: Flame breath, a dash attack, and a stomp.
-    
   - The flame breath can be dogded by strafing since it has a long charge time
   - The dash is hard to dodge. Keep killing dwarves to get heart drops and recover the damage
   - Avoid getting close to the dragon, since the stomp has a short range. It does the most damage of all the attacks.
