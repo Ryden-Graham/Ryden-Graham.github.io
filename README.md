@@ -37,7 +37,7 @@ Use the Necronomibox (a sentient, undead, boombox) to smash through your enemies
 Time hits to the beat to build combo and deal massive damage!
 Dash to get away from enemies!
 
-Spoilers/Tips for Later Levels
+Spoilers/Tips for Later Levels:
 <details>
   <summary>Level 1</summary>
   The Fairy Queen has two attacks: one where she lays mines of light and a melee attack.
@@ -47,6 +47,8 @@ Spoilers/Tips for Later Levels
 </details>
 <details>
   <summary>Level 2</summary>
+  The cassette can be fired with 'Right click'. Use it to build combo or safely deal damage. Note that the cassette's overall dps is lower then the melee attack.
+  
   The Crystal Tiger has two attacks: summoning crystal pillars, and a shard attack.
   
   - The shard will always burst a set distance from the tiger. Observe this distance to avoid taking damage from the fragments.
@@ -54,11 +56,19 @@ Spoilers/Tips for Later Levels
 </details>
 <details>
   <summary>Level 3</summary>
+  The Shockwave attack does MASSIVE AOE damage if you have a combo. Use it to take out groups of enemeies quickly.
+  Build combo witht the cassette, then unleash!
+  
+  The super attack has a large area of affect, but still needs to be aimed. Don't waste it.
+  
   The dragon has a lot of hp, so you can't kill it directly. You need to build up your super attack to damage it.
+  Three super attacks will finish it.
      
   - Kill the dwarves to collect their soul energy while dodging the boss, then use the super to strike back!
   - You can collateral more dwarves with the blast to get some free souls/heart drops
   - Try and avoid picking up hearts if you are at full hp to save them for later
+  - The shockwave is especially good at killing dwarves (use the dragon's large hitbox to build combo first with the cassette)
+  - You can build up a super attack using the lizards before starting the fight.
   
   The Dragon has 3 attacks: Flame breath, a dash attack, and a stomp.
   - The flame breath can be dogded by strafing since it has a long charge time
