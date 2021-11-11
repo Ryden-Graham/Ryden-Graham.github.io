@@ -40,14 +40,17 @@ Dash to get away from enemies!
 Spoilers/Tips for Later Levels:
 <details>
   <summary>Level 1</summary>
+  
   The Fairy Queen has two attacks: one where she lays mines of light and a melee attack.
   
   - The mines only deal damage when they explode, so keep strafing to avoid them!
   - The melee attack is hard to dodge and will chip you down. Maintain combo to outDamage the boss!
   
 </details>
+
 <details>
   <summary>Level 2</summary>
+  
   The cassette can be fired with 'Right click'. Use it to build combo or safely deal damage. Note that the cassette's overall dps is lower than the melee attack.
   
   The Crystal Tiger has two attacks: summoning crystal pillars, and a shard attack.
@@ -56,8 +59,10 @@ Spoilers/Tips for Later Levels:
   * The boss is committed after they summon the first pillar. After dodging, dash in for a melee attack to deal heavy damage.
   
 </details>
+
 <details>
   <summary>Level 3</summary>
+  
   The Shockwave attack does MASSIVE AOE damage if you have a combo. Use it to take out groups of enemies quickly.
   Build combo with the cassette, then unleash!
   
