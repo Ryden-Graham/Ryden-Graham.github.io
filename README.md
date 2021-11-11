@@ -42,10 +42,10 @@ Spoilers/Tips for Later Levels:
   <summary>Level 1</summary>
   
   The Fairy Queen has two attacks: one where she lays mines of light and a melee attack.
-  
-  - The mines only deal damage when they explode, so keep strafing to avoid them!
-  - The melee attack is hard to dodge and will chip you down. Maintain combo to outDamage the boss!
-  
+  <ul>
+    <li> The mines only deal damage when they explode, so keep strafing to avoid them! </li>
+    <li> The melee attack is hard to dodge and will chip you down. Maintain combo to outDamage the boss! </li>
+  </ul>
 </details>
 
 <details>
@@ -54,10 +54,10 @@ Spoilers/Tips for Later Levels:
   The cassette can be fired with 'Right click'. Use it to build combo or safely deal damage. Note that the cassette's overall dps is lower than the melee attack.
   
   The Crystal Tiger has two attacks: summoning crystal pillars, and a shard attack.
-  
-  * The shard will always burst a set distance from the tiger. Observe this distance to avoid taking damage from the fragments.
-  * The boss is committed after they summon the first pillar. After dodging, dash in for a melee attack to deal heavy damage.
-  
+  <ul>
+    <li> The shard will always burst a set distance from the tiger. Observe this distance to avoid taking damage from the fragments. </li>
+    <li> The boss is committed after they summon the first pillar. After dodging, dash in for a melee attack to deal heavy damage. </li>
+  </ul>
 </details>
 
 <details>
@@ -70,17 +70,17 @@ Spoilers/Tips for Later Levels:
   
   The dragon has a lot of hp, so you can't kill it directly. You need to build up your super attack to damage it.
   Three super attacks will finish it.
-     
-  * Kill the dwarves to collect their soul energy while dodging the boss, then use the super to strike back!
-  * You can collateral more dwarves with the blast to get some free souls/heart drops
-  * Try and avoid picking up hearts if you are at full hp to save them for later
-  * The shockwave is especially good at killing dwarves (use the dragon's large hitbox to build combo first with the cassette)
-  * You can build up a super attack using the lizards before starting the fight
-  
+  <ul>   
+    <li> Kill the dwarves to collect their soul energy while dodging the boss, then use the super to strike back! </li>
+    <li> You can collateral more dwarves with the blast to get some free souls/heart drops </li>
+    <li> Try and avoid picking up hearts if you are at full hp to save them for later </li>
+    <li> The shockwave is especially good at killing dwarves (use the dragon's large hitbox to build combo first with the cassette) </li>
+    <li> You can build up a super attack using the lizards before starting the fight </li>
+  </ul>
   The Dragon has 3 attacks: Flame breath, a dash attack, and a stomp.
-  
-  * The flame breath can be dodged by strafing since it has a long charge time
-  * The dash is hard to dodge. Keep killing dwarves to get heart drops and recover the damage
-  * Avoid getting close to the dragon, since the stomp has a short range. It does the most damage of all the attacks
-  
+  <ul>
+    <li> The flame breath can be dodged by strafing since it has a long charge time </li>
+    <li> The dash is hard to dodge. Keep killing dwarves to get heart drops and recover the damage </li>
+    <li> Avoid getting close to the dragon, since the stomp has a short range. It does the most damage of all the attacks </li>
+  </ul>
 </details>
