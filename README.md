@@ -44,6 +44,7 @@ Spoilers/Tips for Later Levels:
   
   - The mines only deal damage when they explode, so keep strafing to avoid them!
   - The melee attack is hard to dodge, and will chip you down. Maintain combo to outDamage the boss!
+  
 </details>
 <details>
   <summary>Level 2</summary>
@@ -53,6 +54,7 @@ Spoilers/Tips for Later Levels:
   
   - The shard will always burst a set distance from the tiger. Observe this distance to avoid taking damage from the fragments.
   - The boss is committed after they summon the first pillar. After dodging, dash in for a melee attack to deal heavy damage.
+  
 </details>
 <details>
   <summary>Level 3</summary>
@@ -71,7 +73,9 @@ Spoilers/Tips for Later Levels:
   - You can build up a super attack using the lizards before starting the fight
   
   The Dragon has 3 attacks: Flame breath, a dash attack, and a stomp.
+  
   - The flame breath can be dogded by strafing since it has a long charge time
   - The dash is hard to dodge. Keep killing dwarves to get heart drops and recover the damage
   - Avoid getting close to the dragon, since the stomp has a short range. It does the most damage of all the attacks
+  
 </details>
