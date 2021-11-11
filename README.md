@@ -58,10 +58,10 @@ Spoilers/Tips for Later Levels:
 </details>
 <details>
   <summary>Level 3</summary>
-  The Shockwave attack does MASSIVE AOE damage if you have a combo. Use it to take out groups of enemeies quickly.
+  The Shockwave attack does MASSIVE AOE damage if you have a combo. Use it to take out groups of enemies quickly.
   Build combo with the cassette, then unleash!
   
-  The super attack has a large area of affect, but still needs to be aimed. Don't waste it.
+  The super attack has a large area of effect but still needs to be aimed. Don't waste it.
   
   The dragon has a lot of hp, so you can't kill it directly. You need to build up your super attack to damage it.
   Three super attacks will finish it.
@@ -74,7 +74,7 @@ Spoilers/Tips for Later Levels:
   
   The Dragon has 3 attacks: Flame breath, a dash attack, and a stomp.
   
-  - The flame breath can be dogded by strafing since it has a long charge time
+  - The flame breath can be dodged by strafing since it has a long charge time
   - The dash is hard to dodge. Keep killing dwarves to get heart drops and recover the damage
   - Avoid getting close to the dragon, since the stomp has a short range. It does the most damage of all the attacks
   
