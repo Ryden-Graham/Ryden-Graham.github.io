@@ -57,7 +57,7 @@ Spoilers/Tips for Later Levels:
 <details>
   <summary>Level 3</summary>
   The Shockwave attack does MASSIVE AOE damage if you have a combo. Use it to take out groups of enemeies quickly.
-  Build combo witht the cassette, then unleash!
+  Build combo with the cassette, then unleash!
   
   The super attack has a large area of affect, but still needs to be aimed. Don't waste it.
   
