@@ -189,7 +189,7 @@ function Sprite_SkillInfo() {
 
   Sprite_Skillbar.prototype.initialize = function() {
     Sprite_Base.prototype.initialize.call(this);
-    this.y = Graphics.height - 36;
+    this.y = 0;
     this._over = 0;
     this._actorId = $gameParty.leader()._actorId;
     this.requestPositionUpdate = true;
