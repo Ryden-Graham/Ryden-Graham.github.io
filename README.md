@@ -26,7 +26,10 @@ Tracy Tran       Artist
 Play online: [Beta](/Beta/index.html)
 Download: [Beta download](Beta.zip)
 
-Link to feedback survey: https://forms.gle/AjXprSZ9Wz2RD1SH7 
+Link to feedback survey: https://forms.gle/AjXprSZ9Wz2RD1SH7
+
+Known bug: Continuing from a save causes a crash due to wait error
+This does not happen locally, so we recommend you use the windows executable linked here instead: https://drive.google.com/file/d/1TY3R0gQWjvnXhc-YsSm684ZLLJk52FJd/view
 
 # How To Play
 Use the Necronomibox (a sentient, undead, boombox) to smash through your enemies to escape an alternate dimension in this fast-pased ARPG!
