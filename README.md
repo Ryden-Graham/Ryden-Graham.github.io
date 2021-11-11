@@ -43,12 +43,12 @@ Spoilers/Tips for Later Levels:
   The Fairy Queen has two attacks: one where she lays mines of light and a melee attack.
   
   - The mines only deal damage when they explode, so keep strafing to avoid them!
-  - The melee attack is hard to dodge, and will chip you down. Maintain combo to outDamage the boss!
+  - The melee attack is hard to dodge and will chip you down. Maintain combo to outDamage the boss!
   
 </details>
 <details>
   <summary>Level 2</summary>
-  The cassette can be fired with 'Right click'. Use it to build combo or safely deal damage. Note that the cassette's overall dps is lower then the melee attack.
+  The cassette can be fired with 'Right click'. Use it to build combo or safely deal damage. Note that the cassette's overall dps is lower than the melee attack.
   
   The Crystal Tiger has two attacks: summoning crystal pillars, and a shard attack.
   
