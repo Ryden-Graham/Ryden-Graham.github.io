@@ -68,10 +68,10 @@ Spoilers/Tips for Later Levels:
   - You can collateral more dwarves with the blast to get some free souls/heart drops
   - Try and avoid picking up hearts if you are at full hp to save them for later
   - The shockwave is especially good at killing dwarves (use the dragon's large hitbox to build combo first with the cassette)
-  - You can build up a super attack using the lizards before starting the fight.
+  - You can build up a super attack using the lizards before starting the fight
   
   The Dragon has 3 attacks: Flame breath, a dash attack, and a stomp.
   - The flame breath can be dogded by strafing since it has a long charge time
   - The dash is hard to dodge. Keep killing dwarves to get heart drops and recover the damage
-  - Avoid getting close to the dragon, since the stomp has a short range. It does the most damage of all the attacks.
+  - Avoid getting close to the dragon, since the stomp has a short range. It does the most damage of all the attacks
 </details>
