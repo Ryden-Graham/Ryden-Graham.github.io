@@ -52,8 +52,8 @@ Spoilers/Tips for Later Levels:
   
   The Crystal Tiger has two attacks: summoning crystal pillars, and a shard attack.
   
-  - The shard will always burst a set distance from the tiger. Observe this distance to avoid taking damage from the fragments.
-  - The boss is committed after they summon the first pillar. After dodging, dash in for a melee attack to deal heavy damage.
+  * The shard will always burst a set distance from the tiger. Observe this distance to avoid taking damage from the fragments.
+  * The boss is committed after they summon the first pillar. After dodging, dash in for a melee attack to deal heavy damage.
   
 </details>
 <details>
@@ -66,16 +66,16 @@ Spoilers/Tips for Later Levels:
   The dragon has a lot of hp, so you can't kill it directly. You need to build up your super attack to damage it.
   Three super attacks will finish it.
      
-  - Kill the dwarves to collect their soul energy while dodging the boss, then use the super to strike back!
-  - You can collateral more dwarves with the blast to get some free souls/heart drops
-  - Try and avoid picking up hearts if you are at full hp to save them for later
-  - The shockwave is especially good at killing dwarves (use the dragon's large hitbox to build combo first with the cassette)
-  - You can build up a super attack using the lizards before starting the fight
+  * Kill the dwarves to collect their soul energy while dodging the boss, then use the super to strike back!
+  * You can collateral more dwarves with the blast to get some free souls/heart drops
+  * Try and avoid picking up hearts if you are at full hp to save them for later
+  * The shockwave is especially good at killing dwarves (use the dragon's large hitbox to build combo first with the cassette)
+  * You can build up a super attack using the lizards before starting the fight
   
   The Dragon has 3 attacks: Flame breath, a dash attack, and a stomp.
   
-  - The flame breath can be dodged by strafing since it has a long charge time
-  - The dash is hard to dodge. Keep killing dwarves to get heart drops and recover the damage
-  - Avoid getting close to the dragon, since the stomp has a short range. It does the most damage of all the attacks
+  * The flame breath can be dodged by strafing since it has a long charge time
+  * The dash is hard to dodge. Keep killing dwarves to get heart drops and recover the damage
+  * Avoid getting close to the dragon, since the stomp has a short range. It does the most damage of all the attacks
   
 </details>
