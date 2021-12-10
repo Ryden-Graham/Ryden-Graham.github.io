@@ -3692,11 +3692,15 @@ function Game_CharacterAgro() {
         if (this._aiPathfind) {
           this.clearPathfind();
         }
-        this._endWait = this.wait(90).then(function() {
-          this._endWait = null;
-          this.endCombat();
-        }.bind(this));
-        this.removeAgro(targetId);
+        try {
+          this._endWait = this.wait(90).then(function() {
+            this._endWait = null;
+            this.endCombat();
+          }.bind(this));
+          this.removeAgro(targetId);
+        } catch (err) {
+
+        }     
       }
       if (this._endWait && this.canMove()) {
         this.moveTowardCharacter(bestTarget);
@@ -3860,14 +3864,14 @@ function Game_CharacterAgro() {
     }
     if (this._agro.has(0)) {
       var exp = this.battler().exp();
-      $gamePlayer.battler().gainExp(exp);
+      // we don't want xp gain
+      // $gamePlayer.battler().gainExp(exp);
       if (exp > 0) {
-        QABSManager.startPopup('QABS-EXP', {
-          x: $gamePlayer.cx(), y: $gamePlayer.cy(),
-          string: 'Exp: ' + exp
-        });
+        // override exp drop with loot drop delay
+        this.setupLoot(exp);
+      } else {
+        this.setupLoot(0);
       }
-      this.setupLoot();
     }
     this.clearABS();
     this._respawn = Number(this.battler().enemy().meta.respawn) || -1;
@@ -3875,7 +3879,7 @@ function Game_CharacterAgro() {
     if (!this._dontErase) this.erase();
   };
 
-  Game_Event.prototype.setupLoot = function() {
+  Game_Event.prototype.setupLoot = function(exp) {
     var x, y;
     var loot = [];
     this.battler().makeDropItems().forEach(function(item) {
@@ -3884,7 +3888,9 @@ function Game_CharacterAgro() {
       var type = 0;
       if (DataManager.isWeapon(item)) type = 1;
       if (DataManager.isArmor(item)) type = 2;
-      loot.push(QABSManager.createItem(x, y, item.id, type));
+      setTimeout(function(){
+        loot.push(QABSManager.createItem(x, y, item.id, type));
+    }, exp);
     }.bind(this));
     if (this.battler().gold() > 0) {
       x = this.x + (Math.random() / 2) - (Math.random() / 2);
