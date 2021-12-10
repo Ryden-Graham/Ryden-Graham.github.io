@@ -3692,15 +3692,11 @@ function Game_CharacterAgro() {
         if (this._aiPathfind) {
           this.clearPathfind();
         }
-        try {
-          this._endWait = this.wait(90).then(function() {
-            this._endWait = null;
-            this.endCombat();
-          }.bind(this));
-          this.removeAgro(targetId);
-        } catch (err) {
-
-        }     
+        this._endWait = this.wait(90).then(function() {
+          this._endWait = null;
+          this.endCombat();
+        }.bind(this));
+        this.removeAgro(targetId);
       }
       if (this._endWait && this.canMove()) {
         this.moveTowardCharacter(bestTarget);
