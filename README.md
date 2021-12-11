@@ -42,7 +42,9 @@ Dash to get away from enemies!
 
 Spoilers/Tips for Later Levels:
 <details>
-  <summary>Level 1</summary>
+  <summary>Level 1</summary>  
+  
+  The faries only have a basic melee attack. Use this opportunity to get used to timing hits and building combo.
   
   The Fairy Queen has two attacks: one where she lays mines of light and a melee attack.
   <ul>
@@ -55,6 +57,8 @@ Spoilers/Tips for Later Levels:
   <summary>Level 2</summary>
   
   The cassette can be fired with 'Right click'. Use it to build combo or safely deal damage. Note that the cassette's overall dps is lower than the melee attack.
+  
+  The snipers get their line of sight blocked by trees/crystals. Find a place to take cover and pick them off one by one.
   
   The Crystal Tiger has two attacks: summoning crystal pillars, and a shard attack.
   <ul>
@@ -69,16 +73,21 @@ Spoilers/Tips for Later Levels:
   The Shockwave attack does MASSIVE AOE damage if you have a combo. Use it to take out groups of enemies quickly.
   Build combo with the cassette, then unleash!
   
+  The dwarves respawn after some time, so watch your back and use a shockwave to AOE around you.
+  
+  The lizards have high ranged dps, so prioritize killing them first
+  
+  Try to not agro too many enemies at once, you can easilly get grouped and die.
+  
   The super attack has a large area of effect but still needs to be aimed. Don't waste it.
   
   The dragon has a lot of hp, so you can't kill it directly. You need to build up your super attack to damage it.
-  Three super attacks will finish it.
   <ul>   
     <li> Kill the dwarves to collect their soul energy while dodging the boss, then use the super to strike back! </li>
     <li> You can collateral more dwarves with the blast to get some free souls/heart drops </li>
     <li> Try and avoid picking up hearts if you are at full hp to save them for later </li>
     <li> The shockwave is especially good at killing dwarves (use the dragon's large hitbox to build combo first with the cassette) </li>
-    <li> You can build up a super attack using the lizards before starting the fight </li>
+    <li> You can build up a super attack using the normal enemies before starting the fight. Load an earlier save if you need to. </li>
   </ul>
   The Dragon has 3 attacks: Flame breath, a dash attack, and a stomp.
   <ul>
