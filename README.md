@@ -23,6 +23,9 @@ Tracy Tran       Artist
 
 
 
+Given performance issues, try running the game on a different browser! (Chrome recommended)
+
+
 Play online:
 
 [Beta](/Beta/index.html)
