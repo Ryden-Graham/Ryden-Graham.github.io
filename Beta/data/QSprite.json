@@ -5159,5 +5159,299 @@
         ]
       }
     }
+  },
+  "DwarfLevel": {
+    "name": "DwarfLevel",
+    "cols": 2,
+    "rows": 2,
+    "anchorX": 0.5,
+    "anchorY": 0.83,
+    "sampleImg": "D:\\RPGMaker\\Revenant Beats\\cmput-250-project\\Revenant Beats\\img\\characters\\QDwarfLevel-RB.png",
+    "poses": {
+      "default": {
+        "name": "default",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "idle1": {
+        "name": "idle1",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "idle3": {
+        "name": "idle3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3
+        ]
+      },
+      "idle7": {
+        "name": "idle7",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle9": {
+        "name": "idle9",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "move1": {
+        "name": "move1",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "move3": {
+        "name": "move3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3
+        ]
+      },
+      "move7": {
+        "name": "move7",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "move9": {
+        "name": "move9",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      }
+    }
+  },
+  "CrystalSniper": {
+    "name": "CrystalSniper",
+    "cols": 2,
+    "rows": 2,
+    "anchorX": 0.5,
+    "anchorY": 0.74,
+    "sampleImg": "D:\\RPGMaker\\Revenant Beats\\cmput-250-project\\Revenant Beats\\img\\characters\\QCrystalSniper-RB.png",
+    "poses": {
+      "default": {
+        "name": "default",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "idle1": {
+        "name": "idle1",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0,
+          0
+        ]
+      },
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "idle3": {
+        "name": "idle3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3
+        ]
+      },
+      "idle7": {
+        "name": "idle7",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1,
+          1
+        ]
+      },
+      "idle9": {
+        "name": "idle9",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "move1": {
+        "name": "move1",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "move3": {
+        "name": "move3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3
+        ]
+      },
+      "move7": {
+        "name": "move7",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "move9": {
+        "name": "move9",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      }
+    }
   }
 }
