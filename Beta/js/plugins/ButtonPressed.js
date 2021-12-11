@@ -1,1 +1,0 @@
-Input.keyMapper[70] = 'F';
