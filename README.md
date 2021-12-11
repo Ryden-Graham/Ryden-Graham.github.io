@@ -24,11 +24,17 @@ Tracy Tran       Artist
 
 
 Play online:
+
 [Beta](/Beta/index.html)
+
 [Gold](/Gold/index.html)
+
 Download:
+
 [Beta download](Beta.zip)
+
 [Gold download](Gold.zip)
+
 
 Link to feedback survey: https://forms.gle/AjXprSZ9Wz2RD1SH7
 
